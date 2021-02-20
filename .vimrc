@@ -30,7 +30,7 @@ filetype plugin indent on    " required
 
 map <C-n> :NERDTreeToggle<CR>
 let NERDTreeShowHidden=1
-autocmd VimEnter * NERDTree
+" autocmd VimEnter * NERDTree
 "colorscheme nord
 set number
 set mouse=a
